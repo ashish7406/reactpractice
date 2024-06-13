@@ -1,0 +1,8 @@
+.hdStatus{
+    display:flex;
+    text-align:center
+}
+.statusImgCs{
+    width:40px;
+    margin-left:10px;
+}
